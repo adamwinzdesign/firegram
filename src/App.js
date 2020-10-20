@@ -1,5 +1,7 @@
 // originally from 'Build a photo gallery with react and firebase', which was posted to Traversy's youTube channel with Net Ninja as the guest instructor.
 // https://www.youtube.com/watch?v=vUe91uOx7R0
+// and
+// https://github.com/iamshaunjp/firegram/tree/final-files
 
 import React, { useState } from 'react';
 import Title from './comps/Title';
